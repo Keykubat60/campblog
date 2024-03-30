@@ -1,0 +1,25 @@
+{
+  "name": "campblog",
+  "version": "1.0.0",
+  "description": "This website is designed for camping enthusiasts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keykubat60/campblog.git"
+  },
+  "author": "Alaaddin Sagun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Keykubat60/campblog/issues"
+  },
+  "homepage": "https://github.com/Keykubat60/campblog#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.2.4"
+  }
+}
